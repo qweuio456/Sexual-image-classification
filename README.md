@@ -1,1 +1,1 @@
-# Sexual-image-classification
+# image-classification
